@@ -1,0 +1,39 @@
+{
+    "logo" : {
+        "source": "images/UK.png",
+        "height" : 60,
+        "width" : 70
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Experience",
+            "href": "/experience"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/1HY2kCzyAT0Yg2djzU1RzX7q9DK1lsxms/view?usp=sharing",
+            "type": "link"
+        }
+    ]
+
+}

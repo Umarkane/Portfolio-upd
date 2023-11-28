@@ -1,0 +1,67 @@
+{
+    "experiences": [
+        {
+          "title": "Front end Developer",
+          "subtitle": "Fleetio",
+          "workType": "Full-time",
+          "workDescription": [
+            " Developed and maintained front-end applications for Fleetio, a transportation company",
+            " Implemented user-friendly interfaces to manage a fleet of vehicles, created a system that allows users to view, add, edit, and delete vehicles. Designed functionality to assign and unassign drivers to vehicles. Implemented search and sort features for efficient vehicle management",
+            " Ensured data validation and input format correctness",
+            " Achieved user satisfaction by delivering a reliable and intuitive system",
+            " Contributed to the success of Fleetio in the transportation market",
+            " Worked in React/Redux and REST API for frontend development",
+            " Used Node.js for backend development",
+            " Redesigned the user interface of a client's website, resulting in a 40% improvement in page load speeds and enhanced user experience. Implemented SEO optimization techniques, leading to a significant increase in organic traffic. Collaborated with cross-functional teams to ensure project objectives were met efficiently. Measurable results include a 30% increase in revenue and a 40% improvement in return on investment"
+          ],
+
+          "dateText": "10/2022 – Present"
+        },
+        {
+          "title": "Front end Developer",
+          "subtitle": "American Electric Power",
+          "workType": "Full Time",
+          "workDescription": [
+            " Led the team for the development process and provided technical consultation for managers in Front End development using React, React.js, Redux.js.",
+            " Developed the backend using REST API, Node.js, and coded APIs in Node.js.",
+            " Handled database development using MSSQL, MySQL, Postgres, Oracle, including queries, columns, tables, procedures, etc., through Sequelize.",
+            " Migrated data from MongoDB, RavenDB, Firebase, GraphQL, and Excel files.",
+            " Worked with Cloud, Azure infrastructure to host applications.",
+            " Utilized Google Analytics, PageSpeedInsight, and Facebook Analytics.",
+            " Deployed the system on AWS and Azure cloud.",
+            " Built reusable service components using React.",
+            " Utilized Kafka as a broker message system and used socket.io to consume real-time messages.",
+            " Developed unit test/Integral test code with Jasmine.",
+            " Visualized complex structures based on decrypted data and showed deviations on the map"
+          ],
+
+          "dateText": "08/2021 – 10/2022"
+        },
+        {
+          "title": "Front end Developer",
+          "subtitle": "Ergotech",
+          "workType": "Full Time",
+          "workDescription": [
+            " Front-End Developer (Flight Data Monitoring System)",
+            " Contributed to the development of a critical Flight Data Monitoring System",
+            " Led a team of skilled software engineers",
+            " Provided technical consultancy to project managers",
+            " Spearheaded front-end development using React, Redux, and other relevant libraries",
+            " Collaborated with the back-end development team using Java SpringBoot",
+            " Managed database development tasks using PostgreSQL and Sequelize",
+            " Developed a mobile application using React Native",
+            " Implemented complex mathematical methods to decrypt aircraft black box data",
+            " Conducted in-depth analysis of aircraft data",
+            " Designed and implemented data visualization features",
+            " Leveraged cloud infrastructure for hosting and scaling applications",
+            " Generated reports for the Civil Aviation Agency",
+            " Successfully deployed the entire system on AWS",
+            " Demonstrated expertise in React, Redux, and cross-functional collaboration",
+            " Contributed to a cutting-edge solution for enhanced flight safety",
+            " Implemented responsive design principles to ensure that applications are optimized for a wide range of devices and screen sizes"
+          ],
+
+          "dateText": "07/2020 – 08/2021"
+        }
+    ]
+}

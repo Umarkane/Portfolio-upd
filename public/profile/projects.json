@@ -1,0 +1,44 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Umarkane/Portfolio1.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://umarkane.website/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "https://raw.githubusercontent.com/Umarkane/flight-data-monitoring-system/0d67435289b51f4f1683591eb679d4329382cb15/public/img/login-img.svg",
+            "title": "Flight Data Monitoring System",
+            "bodyText": "Front-End Developer (Flight Data Monitoring System): Key contributions include leading a skilled software engineering team, spearheading React/Vue front-end development, collaborating on Java SpringBoot back-end, managing PostgreSQL and Sequelize tasks, and deploying the system on AWS. Demonstrated expertise in React, Redux, and cross-functional collaboration. Contributed to a cutting-edge solution for enhanced flight safety.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Umarkane/flight-data-monitoring-system"
+                }
+               
+            ],
+            "tags" : [
+                "Python",
+                "React",
+                "BootStrap",
+                "JavaSpringBoot",
+                "Vue"
+                            ]
+        }
+       
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/umar-kanatbek-welcometomypage/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/"
+        },
+        {
+            "network" : "email",
+            "href": "umarkanatbek2@gmail.com"
+        }
+    ]
+}
