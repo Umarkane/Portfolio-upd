@@ -29,7 +29,7 @@
         "tags": ["Python", "React", "BootStrap", "JavaSpringBoot", "Vue"]
       },
       {
-        "image": "images/projects/Screenshot.png",
+        "image": "images/projects/you.png",
         "title": "YouTube Clone",
         "bodyText": "\n - Developed a fully functional YouTube clone project that replicates the core features of the popular video-sharing platform.\n  - Leveraged technologies such as React, MU, Router, creating a seamless user experience reminiscent of the original platform.",
         "links": [
