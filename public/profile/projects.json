@@ -24,7 +24,11 @@
           {
             "text": "GitHub",
             "href": "https://github.com/Umarkane/flight-data-monitoring-system"
-          }
+          },
+            {
+              "text": "Video ShowCase at DropBox",
+              "href": "https://www.dropbox.com/scl/fi/uhi2lstbr2hp6nr6z2qsr/flight.mp4?rlkey=517zsfaz8do32ofalwtir4nhg&dl=0"
+            }
         ],
         "tags": ["Python", "React", "BootStrap", "JavaSpringBoot", "Vue"]
       },
